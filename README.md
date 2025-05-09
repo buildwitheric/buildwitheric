@@ -1,4 +1,4 @@
-# Hello, I'm Eric!
+# Hi, I'm Eric!
 Welcome to my portfolio – where I build, share, and grow as a tech professional.”
 
 ## Information Technology Projects:
