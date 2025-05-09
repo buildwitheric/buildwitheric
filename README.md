@@ -1,7 +1,7 @@
 # Hello, I'm Eric!
 Welcome to my portfolio – where I build, share, and grow as a tech professional.”
 
-## IT Projects:
+## Information Technology Projects:
 
 
 ## Certification:
@@ -10,3 +10,4 @@ Welcome to my portfolio – where I build, share, and grow as a tech professiona
 • Introduction to Networking and Cloud Computing                                                                                                                              
 • IBM Introduction to Technical Support    
 
+<h2>🤳Connect with me:</h2>
