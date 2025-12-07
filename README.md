@@ -2,7 +2,7 @@
 Welcome to my portfolio – where I build, share, and grow as a tech professional.”
 
 ## Information Technology Projects:
-
+• [MacBook Pro Battery Replacement](https://github.com/buildwitheric/macbook-battery-replacement.git)
 
 ## Certification:
 • Google IT Support Professional                                                                                                                                                         
