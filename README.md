@@ -6,10 +6,10 @@ Welcome to my portfolio – where I build, share, and grow as a tech professiona
 - [Windows-Server-2022-Home-Lab-Active-Directory-Domain-Controller](https://github.com/buildwitheric/Windows-Server-2022-Home-Lab-Active-Directory-Domain-Controller)
 
 ## Certification:
-• Google IT Support Professional                                                                                                                                                         
-• Foundation of Cybersecurity                                                                                                                                                            
-• Introduction to Networking and Cloud Computing                                                                                                                              
-• IBM Introduction to Technical Support    
+- Google IT Support Professional                                                                                                                                                         
+- Foundation of Cybersecurity                                                                                                                                                            
+- Introduction to Networking and Cloud Computing                                                                                                                              
+- IBM Introduction to Technical Support    
 
 <h2>🤳Connect with me:</h2>
 <a href="https://www.linkedin.com/in/eric-gonzalez-79b698159/" target="_blank">
