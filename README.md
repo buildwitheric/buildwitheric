@@ -2,8 +2,9 @@
 Welcome to my portfolio – where I build, share, and grow as a tech professional.
 
 ## Information Technology Projects:
-• [MacBook Pro Battery Replacement](https://github.com/buildwitheric/macbook-battery-replacement.git)
-• [Windows-Server-2022-Home-Lab-Active-Directory-Domain-Controller](https://github.com/buildwitheric/Windows-Server-2022-Home-Lab-Active-Directory-Domain-Controller)
+- [MacBook Pro Battery Replacement](https://github.com/buildwitheric/macbook-battery-replacement.git)
+- [Windows-Server-2022-Home-Lab-Active-Directory-Domain-Controller](https://github.com/buildwitheric/Windows-Server-2022-Home-Lab-Active-Directory-Domain-Controller)
+
 ## Certification:
 • Google IT Support Professional                                                                                                                                                         
 • Foundation of Cybersecurity                                                                                                                                                            
